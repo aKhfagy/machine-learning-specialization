@@ -1,4 +1,4 @@
 # Machine-Learning-Specialization
-This will have all the Ipython notebooks that I have worked on in this specialization.
+This will have all the assigments and slides in this specialization.
 
 Certificate available on linkedin.
